@@ -1,6 +1,3 @@
-# esd-ddp
-[Efficient SciDev. Homework -- DDP](https://drive.google.com/drive/folders/1LWLkut23ovI0oza4bYHRLvGuqnMrz5WJ)
-
 ## Описание подхода
 
 Модель предобучается с knowledge distillation, а затем дообучается на задачах с бинарной классификацией COLA и SST2.
